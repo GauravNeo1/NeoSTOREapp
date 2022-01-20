@@ -1,0 +1,40 @@
+.parallax1 {
+    /* The image used */
+    /* background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img21/Wireless/JanART/Tecno/Brandpage/2Mobile-Hero.gif"); */
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img21/Wireless/WLA/TS/Oppo/Oppo_5thjan/Oppo_10thJan/D35994071_WLA_OPPO_Enco_M32_Ingress_Mobile-hero_1242x450.11.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax2 {
+    /* The image used */
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img21/Wireless/WLA/TS/OP_Z2/D36333895_WLA_OnePLus_BudsZ2_Mobile_Hero_1242x450.d.jpg");
+    /* Set a specific height */
+    min-height: 400px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .parallax3 {
+    /* The image used */
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img22/Wireless/Vivo/Banners/D35605976_INWLD_Vivo_GW-Graphics_Cat_PC_1500.jpg");
+    /* Set a specific height */
+    min-height: 600px; 
+    width: 100%;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
